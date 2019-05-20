@@ -6,7 +6,7 @@
   ],
   "main": "Server.js",
   "dependencies": {
-    "express": "4.13.3",
+    "express": "^4.16.4",
     "multer": "1.1.0"
   },
   "devDependencies": {
