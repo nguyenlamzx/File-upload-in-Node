@@ -2,16 +2,12 @@
   "name": "file_upload",
   "version": "0.0.1",
   "files": [
-    "Server.js"
+    "index.js"
   ],
-  "main": "Server.js",
+  "main": "index.js",
   "dependencies": {
-    "express": "^4.16.4",
-    "multer": "1.1.0"
+    "express": "^4.17.0",
+    "multer": "^1.4.1"
   },
-  "devDependencies": {
-    "should": "~7.1.0",
-    "mocha": "~2.3.3",
-    "supertest": "~1.1.0"
-  }
+  "devDependencies": {}
 }
